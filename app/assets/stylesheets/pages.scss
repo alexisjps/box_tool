@@ -14,3 +14,27 @@
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
 }
+
+.card-img-top{
+  height: 250px!important;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: Montserra!important;
+  font-weight: 500!important;
+  color: #ff6768;
+}
+
+p, a{
+  font-family: Rubik!important;
+  font-weight: 400!important;
+  font-style: sans-serif!important;
+}
+p{
+  color: #17223b!important;
+  font-size: 18px!important;
+}
+a{
+  color: #FF6768!important;
+  text-decoration: none!important;
+}
